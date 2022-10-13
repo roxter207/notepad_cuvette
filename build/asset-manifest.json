@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cuvette_notepad/static/css/main.7af26723.css",
+    "main.js": "/cuvette_notepad/static/js/main.6e48bc05.js",
+    "static/js/787.1f50f65d.chunk.js": "/cuvette_notepad/static/js/787.1f50f65d.chunk.js",
+    "index.html": "/cuvette_notepad/index.html",
+    "main.7af26723.css.map": "/cuvette_notepad/static/css/main.7af26723.css.map",
+    "main.6e48bc05.js.map": "/cuvette_notepad/static/js/main.6e48bc05.js.map",
+    "787.1f50f65d.chunk.js.map": "/cuvette_notepad/static/js/787.1f50f65d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af26723.css",
+    "static/js/main.6e48bc05.js"
+  ]
+}
