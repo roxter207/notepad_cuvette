@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notepad_cuvette/static/css/main.7af26723.css",
+    "main.js": "/notepad_cuvette/static/js/main.17caff61.js",
+    "static/js/787.1f50f65d.chunk.js": "/notepad_cuvette/static/js/787.1f50f65d.chunk.js",
+    "index.html": "/notepad_cuvette/index.html",
+    "main.7af26723.css.map": "/notepad_cuvette/static/css/main.7af26723.css.map",
+    "main.17caff61.js.map": "/notepad_cuvette/static/js/main.17caff61.js.map",
+    "787.1f50f65d.chunk.js.map": "/notepad_cuvette/static/js/787.1f50f65d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af26723.css",
+    "static/js/main.17caff61.js"
+  ]
+}
